@@ -22,6 +22,7 @@ The analysis explores user behavior, viewing patterns, content performance, and 
  Data Processing & Analysis
    
  •	Databricks Notebook (SQL) – Data cleaning, transformation, and analysis
+ 
  •	Excel File (Pivot Tables) – Aggregated insights and exploratory analysis
 
 Final Output
@@ -32,9 +33,13 @@ README.md – Project documentation
 🧠 Key Analysis Areas
 
 *Day-of-week viewing trends
+
 *Time-of-day engagement patterns
+
 *Content anchor performance
+
 *User segmentation (age, gender, etc.)
+
 *Subscriber funnel conversion analysis
 
 🛠️ Tools Used
