@@ -1,49 +1,57 @@
-# Bright_TV_Dataset_Analysis
-**Introduction**
+📺 BrightTV Viewership Analytics – Case Study Project
 
-This project analyzes historical viewership and user profile data from Bright TV to provide actionable business insights for the content and marketing teams. The primary goal is to identify audience engagement drivers, underperforming content, and viewing trends across time intervals, ultimately guiding strategic decisions to improve programming, advertising, and user retention.
+📌 Project Overview
 
-**Topic**
+This project analyzes BrightTV viewership data to generate insights that support the Customer Value Management (CVM) team in growing the subscriber base, improving engagement, and optimizing content strategy.
 
-Business Insights for Bright TV using Historical Viewership and User Profile Data
-The analysis leverages SQL, data visualization and reporting tools to uncover patterns in user behavior, content performance, and engagement trends across demographics and time.
+The analysis explores user behavior, viewing patterns, content performance, and subscriber conversion trends.
 
-**Objectives**
+📁 Project Structure
 
-Identify the most watched shows, channels, and content genres.
-Determine peak viewing intervals by time of day and day of week.
-Highlight trends in user engagement across demographics (age, gender, location).
-Provide recommendations to optimize programming and content delivery.
-Suggest next steps for automation, scalability, and future growth.
+1. Project Description & Raw Data
+Bright_TV_Case_Study.pdf – Business brief, objectives, and problem statement
+Bright_TV_Dataset.xlsx – Raw dataset used for analysis
 
-**Tools Used**
+3. Project Planning
+Bright_TV_GanttChart (Canva) – Project timeline and scheduling plan
+MIRO.PNG – Workflow design, brainstorming, and project mapping
 
-Project Planning: Miro
-Data Processing: Databricks / SQL
-Data Visualization: Microsoft Excel
-Presentation & Reporting: Canva
+5. Data Processing & Analysis
+Databricks Notebook (SQL/PySpark) – Data cleaning, transformation, and analysis
+Excel File (Pivot Tables) – Aggregated insights and exploratory analysis
 
-**Files in Repository**
+7. Final Output
+BrightTV Final Presentation (PowerPoint) – Insights, visualizations, and recommendations
 
-README.md → Documentation of the project (this file)
-BRIGHT_TV_MIRO.png → Data flow & architecture diagram
-SQL_Coding_file.sql → Dataset transformations and queries
-Bright_TV_Excel_Analysis.xlsx → Pivot tables and charts
-BrightTV_Viewership_Presentation.pdf → Presentation slides for management
-Bright_TV_Analysis_Casestudy_RawData → SQL scripts for data extraction and cleaning
+README.md – Project documentation
 
-**Key takeaways**
+🧠 Key Analysis Areas
 
-Certain shows and channels are consistent top performers in evening and weekend time slots.
-User engagement varies significantly across age groups and locations.
-Underperforming content (low-rating genres or time slots) contributes minimally to overall viewership.
-Weekends and prime-time hours show higher engagement compared to weekdays and late-night slots.
+*Day-of-week viewing trends
+*Time-of-day engagement patterns
+*Content anchor performance
+*User segmentation (age, gender, etc.)
+*Subscriber funnel conversion analysis
 
-**Recommendations**
+🛠️ Tools Used
+- Databricks – Data cleaning, SQL
+- Microsoft Excel – Pivot tables and exploratory analysis
+- MIRO – Process mapping and project planning
+- Canva – Gantt chart creation and visual planning
+- PowerPoint – Final presentation design
 
-Optimize Peak Hours: Schedule top-performing content during peak viewing intervals to maximize engagement.
-Strengthen Core Content: Invest in popular shows and genres that drive viewership.
-Boost Underperforming Shows: Promote low-performing content via cross-channel campaigns or bundles with popular programs.
-Targeted Marketing: Leverage user demographics to personalize content recommendations and promotions.
-Operational Efficiency: Automate daily and weekly viewership dashboards for real-time insights.
-Growth Strategy: Expand content library in trending genres and explore digital campaigns to attract new users.
+🎯 Key Outcomes
+- Identified peak engagement periods (weekends and evenings)
+- Found high-performing “anchor” content driving most watch time
+- Highlighted weak points in the subscriber conversion funnel
+- Generated data-driven recommendations for CVM strategy
+
+🚀 Recommendations Summary
+- Prioritize content releases on high-engagement days (Friday–Saturday)
+- Improve onboarding to increase subscription conversion
+- Invest in high-performing anchor content
+- Target low-engagement days (e.g., Monday) with retention strategies
+
+👤 Author
+Letween Tumbare
+BrightTV Data Analytics Case Study Project
