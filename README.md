@@ -8,18 +8,24 @@ The analysis explores user behavior, viewing patterns, content performance, and 
 📁 Project Structure
 
 1. Project Description & Raw Data
+
 •	Bright_TV_Case_Study.pdf – Business brief, objectives, and problem statement
+
 •	Bright_TV_Dataset.xlsx – Raw dataset used for analysis
 
 3. Project Planning
+   
 •	Bright_TV_GanttChart (Canva) – Project timeline and scheduling plan
+
 •	MIRO.PNG – Workflow design, brainstorming, and project mapping
 
 5. Data Processing & Analysis
+   
 •	Databricks Notebook (SQL) – Data cleaning, transformation, and analysis
+
 •	Excel File (Pivot Tables) – Aggregated insights and exploratory analysis
 
-6. Final Output
+7. Final Output
 Bright TV Final Presentation (PowerPoint) – Insights, visualizations, and recommendations
 
 README.md – Project documentation
